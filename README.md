@@ -1,5 +1,4 @@
-# todo-app
-## An assignment given me by a great tech mentor. I had to do research and it felt rewarding :)
+# todo-app :)
 
 • I hosted the Font Awesome CSS package locally to get fancy icons for the project
 
